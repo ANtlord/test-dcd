@@ -1,0 +1,9 @@
+{
+	"name": "test",
+	"authors": [
+		"ANtlord"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2016, ANtlord",
+	"license": "proprietary"
+}
